@@ -1,5 +1,4 @@
 
-
 input = ".\input.txt"
 
 lines = []
